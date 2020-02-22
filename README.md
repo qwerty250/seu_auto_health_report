@@ -13,7 +13,7 @@ The script automatically does the daily health report during the 2019-nCOV outbr
    
 3. Install corresponding browser driver and add it in PATH.
 
-   In my case, I need driver for Chrome 80.0 (as is attached in ./webdriver). If you are not using the same version or the same browser, visit https://www.selenium.dev/downloads/ and find yours in Browsers section. You may need to edit code in case you are not using Chrome. 
+   Visit https://www.selenium.dev/downloads/ and find your browser in Browsers section. Download the corresponding driver of your browser. Put it in ./webdriver. Add the directory to your PATH. You may need to edit code in case you are not using Chrome. 
 
 4. Edit auto_report.py and replcace the placeholders in Line 1 with your ID card number and password.
 
