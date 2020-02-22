@@ -2,7 +2,7 @@
 
 # Overview
 
-The script automatically does the daily health report during the 2019-nCOV outbreak so you don't get bugged by *fudaoyuan* all the time.
+The script automatically does the daily health report during the 2019-nCOV outbreak so you don't ~~get~~ bug~~ged by~~ *fudaoyuan* all the time.
 
 # Requirements
 
