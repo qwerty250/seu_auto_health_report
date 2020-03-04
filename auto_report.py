@@ -4,6 +4,7 @@ import time
 import tkinter.messagebox
 
 browser = webdriver.Chrome('./webdriver/chromedriver')
+browser.implicitly_wait(300)
 
 try:
     browser.get('https://xgbxscwx.seu.edu.cn/')
